@@ -1,2 +1,2 @@
 runtime: nodejs8
-service: service-1
+service: noodb-service-1
