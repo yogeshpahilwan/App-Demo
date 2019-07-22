@@ -1,2 +1,2 @@
 runtime: nodejs8
-service: noODB-Service-1
+service: service-1
