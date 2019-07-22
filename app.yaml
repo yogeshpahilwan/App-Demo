@@ -1,2 +1,2 @@
 runtime: nodejs8
-service: noodb-service-1
+service: srvc-1
