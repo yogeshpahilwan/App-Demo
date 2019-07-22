@@ -1,0 +1,3 @@
+dispatch:
+  - url: "*mcc-ai-poc.appspot.com/service1*"
+    service: service1
